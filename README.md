@@ -10,3 +10,7 @@ Foram feitas 4 configurações distintas de rede, sendo elas:
 - Comunicação I2C (Mestre - Escravo)
 - Comunicação Ethernet (UDP)
 - Comunicação Wireless (XBee)
+
+#TODO
+
+Refatorar o código para dar nomes mais descritiveis para as variáveis.
